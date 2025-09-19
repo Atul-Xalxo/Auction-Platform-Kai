@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "prettier": "^3.5.3"
-  },
-  "dependencies": {
-    "notyf": "^3.10.0"
-  }
-}
